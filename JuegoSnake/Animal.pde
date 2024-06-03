@@ -1,4 +1,4 @@
-class Animal {
+class Animal extends GameObject{
   protected PVector posicion;
   protected float ancho;
   protected float alto;
